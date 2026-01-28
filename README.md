@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F6F52&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0054a6&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alexandre+Soares!;Prospecção+com+IA+|+Engenheiro+Florestal;Analista+de+Operações+|+Growth+Machine;Conectando+Ciência+e+Inteligência+de+Mercado;Seja+bem-vindo!&duration=3500&pause=800" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=4F6F52&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alexandre+Soares!;Prospecção+com+IA+|+Engenheiro+Florestal;Analista+de+Operações+|+Growth+Machine;Conectando+Ciência+e+Inteligência+de+Mercado;Seja+bem-vindo!&duration=3500&pause=800" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@ Meu trabalho acadêmico demonstra a aplicação de tecnologia de ponta para reso
 > **Publicação:** Anais do XIX Simpósio Brasileiro de Sensoriamento Remoto (SBSR 2019)
 > **Autores:** Alexandre Soares Campos Filho, Irene Maria Barcelos Barbosa, Christoph Hermann P. Tigges e Gustavo Eduardo Marcatti.
 
-O estudo propôs um método para **delimitar fragmentos florestais de forma automática** utilizando **dados polarimétricos de RADAR** e **processamento morfológico de imagens**. O objetivo foi criar uma alternativa rápida e totalmente automatizada aos procedimentos de classificação supervisionada, que demandam muito tempo. Os resultados validaram a eficácia do método na discriminação entre fragmentos e não fragmentos.
+O estudo propôs um método para **delimitar fragmentos florestais de forma automática** utilizando **dados polarimétricos Banda L (HV) de RADAR** e **processamento morfológico de imagens**. O objetivo foi criar uma alternativa rápida e totalmente automatizada aos procedimentos de classificação supervisionada, que demandam muito tempo. Os resultados validaram a eficácia do método na discriminação entre fragmentos e não fragmentos.
 
 [**Leia o Resumo Completo no LinkedIn**](https://www.linkedin.com/pulse/um-m%C3%A9todo-simples-e-r%C3%A1pido-para-identificar-os-limites-soares/)
 
@@ -53,7 +53,7 @@ O estudo propôs um método para **delimitar fragmentos florestais de forma auto
 <img src="https://img.shields.io/badge/CRM-0077B5?style=for-the-badge&logo=salesforce&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Social%20Selling-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/SDR%20IA-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/ESG-008000?style=for-the-badge&logo=greensock&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/ESG-4F6F52?style=for-the-badge&logo=greensock&logoColor=white" height="30" />
 
 *Geoespacial & Cloud*<br>
 <img src="https://skillicons.dev/icons?i=postgres,gcp" />
@@ -83,7 +83,7 @@ Descrição do projeto.
 
 <div align="center">
   <a href="https://github.com/alexscfilho">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alexscfilho&bg_color=ffffff&color=0054a6&line=0054a6&point=0054a6&area=true&hide_border=true" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alexscfilho&bg_color=ffffff&color=4F6F52&line=4F6F52&point=4F6F52&area=true&hide_border=true" />
   </a>
 </div>
 
@@ -95,13 +95,13 @@ Estou sempre aberto a conversar sobre tecnologia, florestas, dados e estratégia
 
 <div align="center">
   <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0054a6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-4F6F52?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alexandresfilho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/alexscfilho" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-4F6F52?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -112,5 +112,5 @@ Estou sempre aberto a conversar sobre tecnologia, florestas, dados e estratégia
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=60&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F6F52&height=60&section=footer"/>
 </div>
